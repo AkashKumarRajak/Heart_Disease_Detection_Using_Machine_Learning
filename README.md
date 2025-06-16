@@ -93,7 +93,7 @@ else:
 
 **Akash Kumar Rajak**  
 📧 Email: [akashkumarrajak200@gmail.com](mailto:akashkumarrajak200@gmail.com)  
-💼 GitHub: [AkashKumarRajak](https://github.com/AkashKumarRajak)
+💼 GitHub: [AkashKumarRajak](https://github.com/AkashKumarRajak)<br>
 🔗 LinkedIn: [AkashKumarRajak](https://www.linkedin.com/in/akash-kumar-rajak-22a98623b/)
 
 
